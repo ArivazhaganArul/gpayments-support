@@ -1,4 +1,4 @@
-# 4gp-documentation
+# 4gp-help
 
 Este es el repositorio oficial que contiene la documentación de 4Geeks Payments ubicada en http://4gp-documentation.readthedocs.io/.
 
