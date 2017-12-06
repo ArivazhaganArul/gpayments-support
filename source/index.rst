@@ -3,8 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to 4gp-documentation's documentation!
+Archivos de ayuda para 4Geeks Payments
 =============================================
+
+4Geeks Payments es una pasarela de pago que permite que puedas cobrar a tus clientes mediante tarjeta de crédito o débito, de una forma fácil y segura.
+
+Aquí encontrarás guías y tutoriales que te ayudarán a implementar e integrar 4Geeks Payments de forma sencilla en tu proyecto. Si quieres ver la referencia API debes ir a http://docs.payments.4geeks.io/
 
 .. toctree::
    :maxdepth: 2
@@ -12,7 +16,7 @@ Welcome to 4gp-documentation's documentation!
 
 
 
-Indices and tables
+Índices y tablas
 ==================
 
 * :ref:`genindex`
