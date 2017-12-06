@@ -49,6 +49,8 @@ project = u'4gp-documentation'
 copyright = u'2017, 4Geeks Technologies, Inc.'
 author = u'4Geeks Technologies, Inc.'
 
+html_logo = "static/4gp-logo.png"
+
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
@@ -163,6 +165,3 @@ texinfo_documents = [
      author, '4gp-documentation', 'One line description of project.',
      'Miscellaneous'),
 ]
-
-
-
