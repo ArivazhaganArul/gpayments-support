@@ -12,6 +12,8 @@ Aquí encontrarás guías y tutoriales que te ayudarán a implementar e integrar
 
 Siempre puedes aportar nuevas ideas y archivos de ayuda.
 
+Para abrir una cuenta 4Geeks Payments `aplica aqui <http://4geeks.io/payments>`_.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
