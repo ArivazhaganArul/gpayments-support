@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Archivos de ayuda para 4Geeks Payments
+Tutoriales y Ayuda para 4Geeks Payments
 =============================================
 
 4Geeks Payments es una pasarela de pago que permite que puedas cobrar a tus clientes mediante tarjeta de crédito o débito, de una forma fácil y segura.
