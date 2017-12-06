@@ -14,6 +14,7 @@ Para abrir una cuenta 4Geeks Payments `aplica aqui <http://4geeks.io/payments>`_
 
 .. toctree::
    :maxdepth: 2
+   :caption: Contenido
 
    videos
 
