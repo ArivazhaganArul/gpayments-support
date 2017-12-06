@@ -21,7 +21,7 @@ Para abrir una cuenta 4Geeks Payments `aplica aqui <http://4geeks.io/payments>`_
 
 
 Índices y tablas
-==================
+----------------
 
 * :ref:`genindex`
 * :ref:`modindex`
