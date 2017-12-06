@@ -95,6 +95,8 @@ html_show_sphinx = False
 html_theme_options = {
     'github_user': '4GeeksDev',
     'github_repo': '4gp-documentation',
+    'github_button': True,
+    'sidebar_includehidden': False
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
