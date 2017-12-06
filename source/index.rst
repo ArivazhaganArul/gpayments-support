@@ -10,6 +10,8 @@ Archivos de ayuda para 4Geeks Payments
 
 Aquí encontrarás guías y tutoriales que te ayudarán a implementar e integrar 4Geeks Payments de forma sencilla en tu proyecto. Si quieres ver la referencia API debes ir a http://docs.payments.4geeks.io/
 
+Siempre puedes aportar nuevas ideas y archivos de ayuda.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
