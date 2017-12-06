@@ -12,17 +12,12 @@ Aquí encontrarás guías y tutoriales que te ayudarán a implementar e integrar
 
 Para abrir una cuenta 4Geeks Payments `aplica aqui <http://4geeks.io/payments>`_.
 
+Contenido
+----------------
 .. toctree::
    :maxdepth: 2
-   :caption: Contenido
 
    videos
-
-Índices y tablas
-----------------
-
-* :ref:`genindex`
-* :ref:`search`
 
 Formas de colaborar
 -------------------
