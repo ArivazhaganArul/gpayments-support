@@ -97,7 +97,7 @@ html_theme_options = {
     'github_repo': '4gp-documentation',
     'github_button': True,
     'sidebar_includehidden': False,
-    'show_related': True
+    'show_related': False
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
