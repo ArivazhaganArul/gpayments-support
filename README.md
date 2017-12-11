@@ -1,6 +1,6 @@
-# 4gp-documentation
+# gpayments-support
 
-Este es el repositorio oficial que contiene la documentación de 4Geeks Payments ubicada en http://4gp-documentation.readthedocs.io/.
+Este es el repositorio oficial que contiene la documentación de 4Geeks Payments ubicada en http://gpayments-support.readthedocs.io/.
 
 Si quieres ver la referencia API debes ir a http://docs.payments.4geeks.io/
 

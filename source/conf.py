@@ -96,7 +96,8 @@ html_theme_options = {
     'github_user': '4GeeksDev',
     'github_repo': '4gp-documentation',
     'github_button': True,
-    'sidebar_includehidden': False
+    'sidebar_includehidden': False,
+    'show_related': False
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -111,8 +112,9 @@ html_static_path = ['_static']
 # refs: http://alabaster.readthedocs.io/en/latest/installation.html#sidebars
 html_sidebars = {
     '**': [
-        'relations.html',  # needs 'show_related': True theme option to display
         'searchbox.html',
+        'globaltoc.html',
+        'relations.html',  # needs 'show_related': True theme option to display
     ]
 }
 
