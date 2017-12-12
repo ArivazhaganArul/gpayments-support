@@ -102,6 +102,8 @@ html_theme_options = {
 
 show_powered_by = False
 
+description = '4G Payments es un API que permite procesar tarjetas de forma facil y segura'
+
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
