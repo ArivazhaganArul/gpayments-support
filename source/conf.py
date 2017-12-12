@@ -96,7 +96,7 @@ html_theme_options = {
     'github_user': '4GeeksDev',
     'github_repo': 'gpayments-support',
     'github_button': True,
-    'sidebar_includehidden': False,
+    'sidebar_includehidden': True,
     'show_related': False
 }
 
