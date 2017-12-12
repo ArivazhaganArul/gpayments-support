@@ -19,8 +19,10 @@ Contenido
 ----------------
 .. toctree::
    :maxdepth: 2
-
-   videos
+   :hidden:
+   :glob:
+   
+   *
 
 Formas de colaborar
 -------------------
