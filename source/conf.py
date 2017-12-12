@@ -96,14 +96,13 @@ html_theme_options = {
     'logo' : '4gp-logo.png',
     'github_user': '4GeeksDev',
     'github_repo': 'gpayments-support',
+    'description' : '4G Payments es un API que permite procesar tarjetas de forma facil y segura'
     'github_button': True,
     'sidebar_includehidden': True,
     'show_related': False,
     'show_powered_by' : False,
     'github_banner' : True
 }
-
-description = '4G Payments es un API que permite procesar tarjetas de forma facil y segura'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
