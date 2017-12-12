@@ -94,11 +94,13 @@ html_show_sphinx = False
 #
 html_theme_options = {
     'github_user': '4GeeksDev',
-    'github_repo': '4gp-documentation',
+    'github_repo': 'gpayments-support',
     'github_button': True,
     'sidebar_includehidden': False,
     'show_related': False
 }
+
+show_powered_by = False
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
