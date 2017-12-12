@@ -9,3 +9,16 @@ e integraciones con terceros.
 Recientemente hemos publicado un plugin que facilita la integración entre 4GP y
 WooCommerce, permitiendo que más y más proyectos se sumen a la ola del comercio
 electrónico.
+
+Y de eso trata esta guía. Asumiré que no tienes nada ni instalado, ni configurado.
+
+Instalación de Wordpress
+=========================
+
+La instalación de Wordpress es sencillo, sin embargo, sí es requerido que tengas
+algunos conocimientos básicos de computación. Sugerimos que descargues
+la `última versión <https://wordpress.org/latest.zip>`_ de Wordpress.
+
+Existen muchas opciones de hospedaje web disponible, donde puedes poner a correr
+tu proyecto Wordpress. Los precios varían según el tipo de características y soporte
+técnico que el proveedor ofrezca.
