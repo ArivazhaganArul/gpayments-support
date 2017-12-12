@@ -30,7 +30,7 @@ técnico que el proveedor ofrezca.
 Instalación y configuaración del plugin 4GP
 -------------------------------------------
 
-.. image:: 4gp-plugin-screeenshot.png
+.. image:: _static/4gp-plugin-screeenshot.png
 
 
 
