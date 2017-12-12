@@ -49,7 +49,7 @@ project = u'4gp-documentation'
 copyright = u'2017, 4Geeks Technologies, Inc.'
 author = u'4Geeks Technologies, Inc.'
 
-html_logo = "static/4gp-logo.png"
+#html_logo = "static/4gp-logo.png"
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -93,7 +93,7 @@ html_show_sphinx = False
 # documentation.
 #
 html_theme_options = {
-    'logo' : 'static/4gp-logo.png',
+    'logo' : '4gp-logo.png',
     'github_user': '4GeeksDev',
     'github_repo': 'gpayments-support',
     'github_button': True,
@@ -102,6 +102,8 @@ html_theme_options = {
 }
 
 show_powered_by = False
+
+github_banner = True
 
 description = '4G Payments es un API que permite procesar tarjetas de forma facil y segura'
 
