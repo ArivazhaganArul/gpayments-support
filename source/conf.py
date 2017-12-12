@@ -96,7 +96,7 @@ html_theme_options = {
     'logo' : '4gp-logo.png',
     'github_user': '4GeeksDev',
     'github_repo': 'gpayments-support',
-    'description' : '4G Payments es un API que permite procesar tarjetas de forma facil y segura'
+    'description' : '4G Payments es un API que permite procesar tarjetas de forma facil y segura',
     'github_button': True,
     'sidebar_includehidden': True,
     'show_related': False,
