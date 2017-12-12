@@ -11,3 +11,6 @@ hemos publicado.
 
 Te sugiero que te suscribas al canal en `YouTube <https://www.youtube.com/c/4geeksinfo>`_
 para que veas los próximos video tutoriales que publicaremos.
+
+
+.. image:: _static/yt-screenshot.png
