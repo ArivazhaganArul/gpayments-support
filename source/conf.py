@@ -98,12 +98,10 @@ html_theme_options = {
     'github_repo': 'gpayments-support',
     'github_button': True,
     'sidebar_includehidden': True,
-    'show_related': False
+    'show_related': False,
+    'show_powered_by' : False,
+    'github_banner' : True
 }
-
-show_powered_by = False
-
-github_banner = True
 
 description = '4G Payments es un API que permite procesar tarjetas de forma facil y segura'
 
