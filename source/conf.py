@@ -93,7 +93,7 @@ html_show_sphinx = False
 # documentation.
 #
 html_theme_options = {
-    'logo' = 'static/4gp-logo.png',
+    'logo' : 'static/4gp-logo.png',
     'github_user': '4GeeksDev',
     'github_repo': 'gpayments-support',
     'github_button': True,
