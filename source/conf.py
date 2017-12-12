@@ -117,8 +117,8 @@ html_static_path = ['_static']
 html_sidebars = {
     '**': [
         'about.html',
-        'searchbox.html',
         'navigation.html',
+        'searchbox.html',
         'relations.html',  # needs 'show_related': True theme option to display
     ]
 }
