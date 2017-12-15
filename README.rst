@@ -12,3 +12,12 @@ Sin embargo, siempre puedes consumir el API mediante métodos HTTP.
 
 .. note::
     La referencia API la encuentras en http://docs.payments.4geeks.io/
+    
+Soporte y Recursos
+-------------------
+
+Puedes buscar ayuda mediante varias opciones que hacemos públicas:
+
+* esta guía.
+* `chat <https://gitter.im/4GeeksDev/4gpayments>`_ con otros desarrolladores de la comunidad, o directamente con ingenieros de 4Geeks.
+* `librerias cliente <http://gpayments-support.readthedocs.io/en/latest/libreria.html>`_.
