@@ -9,10 +9,17 @@ como si fuese real.
 Al crear la cuenta, también tendrás acceso al Panel de Administración; ésto te permitirá ver todos los datos 
 de tus transacciones de forma interactiva, con gráficos y otros recursos.
 
-Tipo de negocios permitidos
+Negocios permitidos
 ----------------------------
 
-Estamos dispuestos a apoyar a la mayor cantidad de proyectos disponibles
+Estamos dispuestos a apoyar a la mayor cantidad de negocios posibles, sin embargo se debe de cumplir con ciertos requisitos que el departamento legal revisará minuciosamente. 
+
+Cualquier negocio puede crear una cuenta, y automáticamente obtendrá crendenciales de prueba. Sin embargo, debe presentar docuemtnación que garantice su legalidad y correcto funcionando bajo las leyes del país.
+
+.. note::
+  Un negocio puede ser representado por persona física o persona jurídica.
+  
+
 
 Disponibilidad del servicio
 ---------------------------
