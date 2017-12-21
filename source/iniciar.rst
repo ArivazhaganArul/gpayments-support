@@ -23,4 +23,4 @@ Cualquier negocio puede crear una cuenta, y automáticamente obtendrá crendenci
 
 Disponibilidad del servicio
 ---------------------------
-4Geeks Payments está disponible únicamente para negocios basados en Costa Rica.
+4Geeks Payments está disponible únicamente para negocios basados en Costa Rica. Estamos trabajando para permitir nuevas regiones pronto.
