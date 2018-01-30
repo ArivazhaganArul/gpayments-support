@@ -40,6 +40,6 @@ El modelo en que 4Geeks Payments cobra es mediante una comisión pequeña por tr
 
 Payouts
 -------
-Cada viernesrecibirás el acumulado de todas las transacciones que hayas recibido. Un día anterior se hace el corte respectivo.
+Cada viernes recibirás el acumulado de todas las transacciones que hayas recibido. Un día anterior se hace el corte respectivo.
 
-Podrás llevar un control de cada payout desde el Panel de Administrador.
+Podrás llevar un control de cada payout desde Balance, en el Panel de Administrador.
