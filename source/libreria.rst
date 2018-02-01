@@ -10,7 +10,7 @@ la mayoría de las librerías cliente disponibe, como Python, Ruby. Además, exi
 un plugin para integrar con WooCommerce / Wordpress.
 
 * `NodeJS <https://github.com/cayasso/gpayments>`_
-* `Wordpress/WooCommerce <https://github.com/4GeeksDev/gpayments-woocommerce-plugin>`_
+* `Wordpress/WooCommerce <https://wordpress.org/plugins/payments4g-4geeks-payments/>`_
 * `Python <https://github.com/4GeeksDev/gpayments-python>`_
 * `Ruby <https://github.com/4GeeksDev/gpayments-ruby>`_
 
