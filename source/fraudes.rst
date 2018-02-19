@@ -16,7 +16,7 @@ La documentacion para proceder con la disputa departe de tu negocio la solicitar
 cuenta de tu cliente).
 
 
-Como preveemos fraudes?
+Como prevemos fraudes?
 =========================
 
 Todas las transacciones en 4Geeks Payments deben ser verificadas con el código CVC, esto nos garantiza un mayor control
