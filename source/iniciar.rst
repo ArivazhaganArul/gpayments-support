@@ -24,7 +24,7 @@ La documentación que te solicitaremos puede variar, sin embargo en este `video 
 
 Disponibilidad del servicio
 ---------------------------
-4Geeks Payments está disponible únicamente para negocios basados en Costa Rica. Estamos trabajando para permitir nuevas regiones pronto.
+4Geeks Payments está disponible únicamente para negocios basados en Costa Rica. Estamos trabajando para permitir nuevas regiones pronto. Síguenos en Facebook para conocer detalles de próximas regiones.
 
 Credenciales de acceso
 -----------------------
@@ -42,10 +42,12 @@ El modelo en que 4Geeks Payments cobra es mediante una comisión pequeña por tr
 
 Payouts
 -------
-Cada viernes recibirás el acumulado de todas las transacciones que hayas recibido. Un día anterior se hace el corte respectivo.
+Cada viernes recibirás, automátiacmente en tu cuenta bancaria, el acumulado de todas las transacciones que hayas recibido durante la semana.
 
-Podrás llevar un control de cada payout desde Balance, en el Panel de Administrador.
+Podrás llevar un control detallado de cada payout desde Saldo, en el Panel de Administrador.
 
 Integración
 -----------
 4Geeks Payments viene con las herramientas necesarias para integrarlo a cualquier sistema informático, ya se web o móvil. Estas herramientas son creadas en su mayoria por la comunidad abierta de desarrolladores, pero estrictamente valoradas por los ingenieros de 4Geeks.
+
+Mira la sección `Librerías cliente <http://gpayments-support.readthedocs.io/en/latest/libreria.html>`_ para conocer más.
