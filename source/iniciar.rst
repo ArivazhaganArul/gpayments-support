@@ -46,6 +46,8 @@ Cada viernes recibirás, automátiacmente en tu cuenta bancaria, el acumulado de
 
 Podrás llevar un control detallado de cada payout desde Saldo, en el Panel de Administrador.
 
+No incurrirás en comisiones extra por concepto de envio de dinero a tu cuenta bancaria.
+
 Integración
 -----------
 4Geeks Payments viene con las herramientas necesarias para integrarlo a cualquier sistema informático, ya se web o móvil. Estas herramientas son creadas en su mayoria por la comunidad abierta de desarrolladores, pero estrictamente valoradas por los ingenieros de 4Geeks.
