@@ -1,6 +1,3 @@
-Qués es 4GP?
-============
-
 4Geeks Payments es una pasarela de pago, que mediante un API, permite procesar
 tarjetas de forma fácil y segura.
 Por su naturaleza, se integra 100% con cualquier sistema informático,
