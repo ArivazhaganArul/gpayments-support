@@ -18,6 +18,8 @@ Cualquier negocio puede crear una cuenta, y automáticamente obtendrá crendenci
 
 .. note::
   Un negocio puede ser representado por persona física o persona jurídica.
+  
+La documentación que te solicitaremos puede variar, sin embargo en este `video <https://youtu.be/NAZUyIrFdoc>`_ encontrarás los requisitos básicos siendo una persona jurídica o personas fisica.
   
 
 Disponibilidad del servicio
