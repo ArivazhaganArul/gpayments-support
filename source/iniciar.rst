@@ -45,3 +45,7 @@ Payouts
 Cada viernes recibirás el acumulado de todas las transacciones que hayas recibido. Un día anterior se hace el corte respectivo.
 
 Podrás llevar un control de cada payout desde Balance, en el Panel de Administrador.
+
+Integración
+-----------
+4Geeks Payments viene con las herramientas necesarias para integrarlo a cualquier sistema informático, ya se web o móvil. Estas herramientas son creadas en su mayoria por la comunidad abierta de desarrolladores, pero estrictamente valoradas por los ingenieros de 4Geeks.
