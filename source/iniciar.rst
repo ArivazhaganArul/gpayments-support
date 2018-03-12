@@ -28,7 +28,7 @@ Disponibilidad del servicio
 
 Credenciales de acceso
 -----------------------
-Por defecto, a cada nueva cuenta se le entregarán credenciales de acceso (client_secret y client_id) al modo de prueba, con el fin de que cada desarrollador pueda asegurarse que el flujo de negocio corre según lo espera. En este modo puedes usar las `tarjetas de prueba <http://docs.payments.4geeks.io/#testing-cards>`_, que proveemos.
+Por defecto, a cada nueva cuenta se le entregarán credenciales de acceso (`client_secret` y `client_id`) al modo de prueba, con el fin de que cada desarrollador pueda asegurarse que el flujo de negocio corre según lo espera. En este modo puedes usar las `tarjetas de prueba <http://docs.payments.4geeks.io/#testing-cards>`_, que proveemos.
 
 Para procesar tarjetas reales de clientes reales, debes enviar una `solicitud <https://dashboard.payments.4geeks.io/request-live/>`_. Te solicitaremos algunos documentos requeridos que prueben la validez de tu empresa.
 
