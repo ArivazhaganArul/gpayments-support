@@ -34,7 +34,7 @@ Para procesar tarjetas reales de clientes reales, debes enviar una `solicitud <h
 
 Precio
 -------
-El modelo en que 4Geeks Payments cobra es mediante una comisión pequeña por transacción. Entonces, el precio es de 5.5% + $0.30 USD por cada transacción satisfactoria.
+El modelo en que 4Geeks Payments cobra es mediante una comisión pequeña por transacción de 5.5% + $0.30 USD por cada transacción satisfactoria. No hay mensualidades, ni cobros por configurar una cuenta, ni cargos ocultos.
 
 .. note::
   Si procesas una alta cantidad de transacciones mensuales, talvez te gustaría saber acerca de los descuentos por volumen.
