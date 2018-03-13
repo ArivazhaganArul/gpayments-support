@@ -17,6 +17,6 @@ Puedes buscar ayuda mediante varias opciones que hacemos públicas:
 
 * esta guía.
 * `chat <https://gitter.im/4GeeksDev/4gpayments>`_ con otros desarrolladores de la comunidad, o directamente con ingenieros de 4Geeks.
-* `librerias cliente <http://gpayments-support.readthedocs.io/en/latest/libreria.html>`_.
+* `librerias cliente <source/libreria.rst>`_.
 
 Escribe a payments@4geeks.io en caso de requerir ayuda personalizada.
