@@ -9,5 +9,5 @@ Esto no representa un error meramente de 4Geeks Payments, sino que se considera 
 del banco ante una transacción que sea sospechosa o que no se haya podido validar.
 
 Para esto, el tarjetahabiente debe comunicarse con el banco y solicitar el reintegro del dinero. Dependiendo del banco,
-esto puede tomar hast 7 días. En algunas ocasiones, los bancos devuelven todos los montos congelados una vez al mes de forma
+esto puede tomar hasta 7 días. En algunas ocasiones, los bancos devuelven todos los montos congelados una vez al mes de forma
 automática.
