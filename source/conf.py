@@ -101,7 +101,7 @@ html_theme_options = {
     'sidebar_includehidden': True,
     'show_related': False,
     'show_powered_by' : False,
-    'github_banner' : True,
+    'github_banner' : False,
     'analytics_id' : 'UA-107413419-2'
 }
 
