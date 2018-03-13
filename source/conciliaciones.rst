@@ -9,3 +9,5 @@ Esto no representa un error meramente de 4Geeks Payments ni del comercio, sino q
 
 Para esto, el tarjetahabiente debe comunicarse con el banco y solicitar el reintegro del dinero. Dependiendo del banco,
 esto puede tomar hasta 7 días en resolverse. En algunas ocasiones, los bancos devuelven todos los montos congelados una vez al mes de forma automática.
+
+Asegúrate que la transacción no se haya procesado. Puedes solicitar documentos o screenshots a tu cliente, o puedes verificar directamente en el Panel de Administración.
