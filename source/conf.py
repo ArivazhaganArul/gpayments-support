@@ -46,7 +46,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'4gp-documentation'
-copyright = u'2017, 4Geeks Technologies, Inc.'
+copyright = u'2018, 4Geeks Technologies, Inc.'
 author = u'4Geeks Technologies, Inc.'
 
 #html_logo = "static/4gp-logo.png"
