@@ -26,6 +26,11 @@ Disponibilidad del servicio
 ---------------------------
 4Geeks Payments está disponible únicamente para negocios basados en Costa Rica. Estamos trabajando para permitir nuevas regiones pronto. Síguenos en Facebook para conocer detalles de próximas regiones.
 
+Monedas y marcas de tarjeta
+---------------------------
+Puedes procesar Visa, MasterCard y AMEX, emitidas en cualquier país. 
+Las monedas en las que puedes procesr montos es colones costarricenses y dólares estadounidense. Sin embargo, con AMEX sólo es permitido procesar en dólares estadounidenses.
+
 Credenciales de acceso
 -----------------------
 Por defecto, a cada nueva cuenta se le entregarán credenciales de acceso (`client_secret` y `client_id`) al modo de prueba, con el fin de que cada desarrollador pueda asegurarse que el flujo de negocio corre según lo espera. En este modo puedes usar las `tarjetas de prueba <http://docs.payments.4geeks.io/#testing-cards>`_, que proveemos.
