@@ -47,11 +47,11 @@ El modelo en que 4Geeks Payments cobra es mediante una comisión pequeña por tr
 
 Payouts
 -------
-Cada viernes recibirás, automátiacmente en tu cuenta bancaria, el acumulado de todas las transacciones que hayas recibido durante la semana.
+Cada viernes recibirás, automátiacmente en tu cuenta bancaria en cualquier banco de Costa Rica, el acumulado de todas las transacciones que hayas recibido durante la semana.
 
 Podrás llevar un control detallado de cada payout desde Saldo, en el Panel de Administrador.
 
-No incurrirás en comisiones extra por concepto de envio de dinero a tu cuenta bancaria.
+No incurrirás en comisiones extra por concepto de envio de dinero a tu cuenta bancaria. En Costa Rica pagamos en dólares estadounidenses y colones costarricenses.
 
 Integración
 -----------
