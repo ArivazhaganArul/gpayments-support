@@ -29,7 +29,7 @@ Algunos negocios que no podemos soportar:
 * Venta de alimentos.
 * Envío de dinero
 
-Cabe que posibilidad que no podemos soportar tu negocio, inclusive si no está listado arriba.
+Cabe que posibilidad que no podamos soportar tu negocio, inclusive si no está listado arriba.
   
 
 Disponibilidad del servicio
