@@ -28,6 +28,7 @@ Algunos negocios que no podemos soportar:
 * Venta de fármacos, medicinas.
 * Venta de alimentos.
 * Envío de dinero
+* Diseño web, programación, diseño gráfico. 
 
 Cabe que posibilidad que no podamos soportar tu negocio, inclusive si no está listado arriba.
   
