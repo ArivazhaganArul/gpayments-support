@@ -66,6 +66,8 @@ Según tu banco, es posible que incurras en atrasos. Cuando detectes un atraso e
 
 No incurrirás en comisiones extra por concepto de envío de dinero a tu cuenta bancaria. En Costa Rica pagamos en dólares estadounidenses y colones costarricenses.
 
+Toma en cuenta que se harán pagos semanales donde el acumulado sea igual o mayor $50 USD.
+
 Integración
 -----------
 4Geeks Payments viene con las herramientas necesarias para integrarlo a cualquier sistema informático, ya se web o móvil. Estas herramientas son creadas en su mayoria por la comunidad abierta de desarrolladores, pero estrictamente valoradas por los ingenieros de 4Geeks.
