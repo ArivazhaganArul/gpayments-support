@@ -1,5 +1,5 @@
 4Geeks Payments es una pasarela de pago, que mediante un API, permite procesar
-tarjetas de forma fácil y segura.
+tarjetas Visa, Master Card y American Express de forma fácil y segura.
 Por su naturaleza, se integra 100% con cualquier sistema informático,
 de escritorio, web o aplicación móvil.
 
@@ -13,8 +13,8 @@ Sin embargo, siempre puedes consumir el API mediante métodos HTTP.
 Soporte y Recursos
 -------------------
 
-Puedes buscar ayuda mediante varias opciones que hacemos públicas:
+Puedes encontrar ayuda en varios canales:
 
-* esta guía.
-* `chat <https://gitter.im/4GeeksDev/4gpayments>`_ con otros desarrolladores de la comunidad, o directamente con ingenieros de 4Geeks.
-* librerias cliente.
+* Esta guía.
+* `Chat <https://gitter.im/4GeeksDev/4gpayments>`_ de la comunidad.
+* Librerias cliente.
