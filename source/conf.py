@@ -46,7 +46,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'4gp-documentation'
-copyright = u'2018, 4Geeks Technologies, Inc.'
+copyright = u'2019, 4Geeks Technologies, Inc.'
 author = u'4Geeks Technologies, Inc.'
 
 #html_logo = "static/4gp-logo.png"
@@ -96,8 +96,8 @@ html_theme_options = {
     'logo' : '4gp-logo.png',
     'github_user': '4GeeksDev',
     'github_repo': 'gpayments-support',
-    'description' : '4G Payments es un API que permite procesar tarjetas de forma facil y segura',
-    'github_button': True,
+    'description' : '4Geeks Payments es un API que permite procesar tarjetas en línea',
+    'github_button': False,
     'sidebar_includehidden': True,
     'show_related': False,
     'show_powered_by' : False,
