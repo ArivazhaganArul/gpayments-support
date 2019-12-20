@@ -11,8 +11,8 @@ de tus transacciones de forma interactiva, con gráficos y otros recursos.
 
 Entonces, para 
 
-Negocios permitidos
-----------------------------
+Negocios permitidos y no permitidos
+-----------------------------------
 
 Estamos dispuestos a apoyar a la mayor cantidad de negocios posibles, sin embargo se debe de cumplir con ciertos requisitos que el departamento legal revisará minuciosamente. 
 
