@@ -1,13 +1,15 @@
 =============
-Iniciar
+Empezar
 =============
-Para empezar a procesar pagos a través de 4Geeks Payments debes 
-`crear una cuenta <http://dashboard.payments.4geeks.io/accounts/register>`_, lo que entregará
-las credenciales de acceso API KEYS en ambiente de pruebas, para que simules transacciones y todas las funciones del API
-como si fuese real. 
+
+4Geeks Payments es un servicio orientado a desarrolladores, programadores e ingenieros.
+
+Cada nuevo comercio que planee recibir pagos de sus clientes a través de tarjetas, y quiera usar 4Geeks Payments para esto, debe `crear una cuenta gratis <http://dashboard.payments.4geeks.io/accounts/register>`_ una única vez. Automáticamente recibirás credenciales API de pruebas, que debes usar en cada llamada al API.
 
 Al crear la cuenta, también tendrás acceso al Panel de Administración; ésto te permitirá ver todos los datos 
 de tus transacciones de forma interactiva, con gráficos y otros recursos.
+
+Entonces, para 
 
 Negocios permitidos
 ----------------------------
