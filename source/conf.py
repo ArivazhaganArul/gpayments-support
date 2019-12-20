@@ -96,7 +96,7 @@ html_theme_options = {
     'logo' : '4gp-logo.png',
     'github_user': '4GeeksDev',
     'github_repo': 'gpayments-support',
-    'description' : '4Geeks Payments es un API que permite procesar tarjetas en línea',
+    'description' : '4Geeks Payments es un API que permite procesar tarjetas online.',
     'github_button': False,
     'sidebar_includehidden': True,
     'show_related': False,
