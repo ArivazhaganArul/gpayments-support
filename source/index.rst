@@ -1,5 +1,5 @@
 ==============================
-4G Payments: pasarela de pago
+4GPayments: pasarela de pago
 ==============================
 
 .. include:: ../README.rst
