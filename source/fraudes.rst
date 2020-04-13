@@ -18,7 +18,7 @@ Al momento de ser notificado sobre la disputa, usted cuenta con un plazo no mayo
 
 En caso que proveas la información necesaria para disputar, el Banco Emisor comenzará con un periodo de revisión el cual responde a sus tiempos y políticas internas. Siempre y cuando nos hayas proporcionado todos los elementos completos para disputar, Nosotros gestionaremos en su nombre y ante el banco emisor, dicha Disputa. Cabe destacar que, Nosotros no nos hacemos responsables de los tiempos de resolución de dicha disputa.
 
-Al finalizar el periodo de revisión mencionado, el banco emisor notificará sobre la resolución. El Banco Emisor tomará una de las dos siguientes decisiones sobre la resolución: Perdida o Ganada. En caso de ser perdida, el monto de disputado será devueltos a su cliente. En caso de ser ganada, el monto disputado será devuelto a su Saldo; cualquiera de estas dos resoluciones se le notificará a usted vía correo electronico. Todas las devoluciones de una disputa perdida, serán a la tarjeta de Crédito o Débito en la cual se generó el cargo.
+Al finalizar el periodo de revisión mencionado, el banco emisor notificará sobre la resolución. El Banco Emisor tomará una de las dos siguientes decisiones sobre la resolución: Perdida o Ganada. En caso de ser perdida, el monto disputado será devueltos a su cliente. En caso de ser ganada, el monto disputado será devuelto a su Saldo; cualquiera de estas dos resoluciones se le notificará a usted vía correo electronico. Todas las devoluciones de una disputa perdida, serán a la tarjeta de Crédito o Débito en la cual se generó el cargo.
 
 Como prevemos fraudes?
 =========================
