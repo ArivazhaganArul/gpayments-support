@@ -71,8 +71,14 @@ La venta de medicamentos controlados o de prescripción médica, sustancias ileg
 
 Cabe la posibilidad que no podamos soportar su negocio, inclusive si no está listado arriba.
 
+Baja
+-----------------------------------
+Nosotros podremos suspender de manera preventiva su cuenta de producción si nos percatamos que su negocio se comprueba que los documentos proporcionados por usted o su equipo son falsos o alterados, si existe evidencia de Actividades no Autorizadas en su cuenta, si usted no otorgas los productos ofrecidos a sus clientes, si tenemos una sospecha fundada de que existen actividades relacionadas con cualquier tipo de fraude o lavado de dinero o que el sitio con el cual aplico se encuentra inactivo, etc.
+
+Para que podamos reactivar su baja, usted contarás con 24 horas a partir de la baja preventiva para exhibir cualquier prueba que aclaren los hechos que dieron pie a dicha baja, de no lograr acreditar o comprobar lo contrario, la cuenta será dada de baja formalmente.
+
 Integración
 -----------
 4GPayments viene con las herramientas necesarias para integrarlo a cualquier sistema informático, ya sea web o móvil. Estas herramientas son creadas en su mayoria por la comunidad abierta de desarrolladores, pero estrictamente valoradas por los ingenieros de 4Geeks.
 
-Mira la sección `Librerías cliente <http://gpayments-support.readthedocs.io/en/latest/libreria.html>`_ para conocer más.
+Mira la sección `Librerías cliente <http://gpayments-support.readthedocs.io/es/latest/libreria.html>`_ para conocer más.
