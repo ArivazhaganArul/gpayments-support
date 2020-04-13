@@ -16,10 +16,10 @@ de tus transacciones de forma interactiva, con gráficos y otros recursos.
 
 Entonces, para 
 
-Activacion de produccion:
+Activación de producción:
 -----------------------------------
 
-Cuando estes listo para solicitar la `activacion de produccion <https://dashboard.payments.4geeks.io/request-live/>`_, y asi  procesar tarjetas reales de clientes reales puedes hacerlo desde el panal de administracion, completar un formulario y adjuntar los documentos requeridos que prueben la validez de su empresa.
+Cuando este listo para solicitar la `activacion de produccion <https://dashboard.payments.4geeks.io/request-live/>`_, y asi  procesar tarjetas reales de clientes reales puedes hacerlo desde el panal de administracion, completar un formulario y adjuntar los documentos requeridos que prueben la validez de su empresa.
 
 Nuestro equipo le podrá solicitar información adicional para validar identidad, veracidad de la información, actividad que deseas desempeñar y otra información administrativa. 
 
@@ -28,7 +28,7 @@ Al momento en que solicitar la activación, se realizará un estudio para otorga
 Pagos y fechas de pagos:
 -----------------------------------
 
-Los payouts o pagos corresponde al monto cargado a sus clientes, lo recibirás cada viernes, lo recibirás automátiacmente en su cuenta bancaria en cualquier banco de Costa Rica. El corte del pago corresponderá a la semana anterior.
+Los pagos corresponde al monto cargado a sus clientes, lo recibirá cada viernes, lo recibirá automátiacmente en su cuenta bancaria en cualquier banco de Costa Rica. El corte del pago corresponderá a la semana anterior.
 
 Podrás llevar un control detallado de cada pago desde Saldo, en el Panel de Administrador. Tal como las transacciones que ya fueron pagadas y las que aun no ha sido pagadas. En cuanto a las transacciones pagadas, podrás obtener el número de referencia bancaria, asi confirmando que el pago fue efectuado.
 
@@ -47,7 +47,7 @@ Las monedas en las que puedes procesr montos es colones costarricenses y dólare
 
 Precio
 -------
-El modelo en que 4Geeks Payments cobra es mediante una comisión pequeña por transacción de 5.5% + $0.30 USD por cada transacción satisfactoria mas IVA (Impuesto del Valor Agregado) sobre la comision. No hay mensualidades, ni cobros por configurar una cuenta, ni cargos ocultos.
+El modelo en que 4GPayments cobra es mediante una comisión pequeña por transacción de 5.5% + $0.30 USD por cada transacción satisfactoria mas IVA (Impuesto del Valor Agregado) sobre la comision. No hay mensualidades, ni cobros por configurar una cuenta, ni cargos ocultos.
 
 .. NOTE::
   Si procesas una alta cantidad de transacciones mensuales, talvez te gustaría saber acerca de los descuentos por volumen.
