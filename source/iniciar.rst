@@ -2,7 +2,7 @@
 Empezar
 =============
 
-Cuenta de Prueba:
+Cuenta de Prueba
 -----------------------------------
 
 4G Payments es un servicio orientado a desarrolladores, programadores e ingenieros.
@@ -16,7 +16,7 @@ de tus transacciones de forma interactiva, con gráficos y otros recursos.
 
 Entonces, para 
 
-Activación de producción:
+Activación de producción
 -----------------------------------
 
 Cuando este listo para solicitar la `activacion de produccion <https://dashboard.payments.4geeks.io/request-live/>`_, y asi  procesar tarjetas reales de clientes reales puedes hacerlo desde el panal de administracion, completar un formulario y adjuntar los documentos requeridos que prueben la validez de su empresa.
@@ -25,7 +25,7 @@ Nuestro equipo le podrá solicitar información adicional para validar identidad
 
 Al momento en que solicitar la activación, se realizará un estudio para otorgar acceso la activacion de produccion. Se podrá negar su Activación si se comprueba que la información que nos brindaste no es válida, realizas actividades que se encuentran dentro de nuestros modelos de negocios no permitidos, etc. En caso de que se le haya negado la activación, se lo notificaremos mediante correo electrónico.
 
-Pagos y fechas de pagos:
+Pagos y fechas de pagos
 -----------------------------------
 
 Los pagos corresponde al monto cargado a sus clientes, lo recibirá cada viernes, lo recibirá automátiacmente en su cuenta bancaria en cualquier banco de Costa Rica. El corte del pago corresponderá a la semana anterior.
