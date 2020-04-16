@@ -84,9 +84,9 @@ Integración
 Soporte y Recursos
 -----------
 Puedes encontrar ayuda en varios canales:
-- Esta guía.
-- `Chat <https://gitter.im/4GeeksDev/4gpayments>`_
-- Librerias cliente.
-- Escribiendo al correo payments@4geeks.io
+* Esta guía.
+* `Chat <https://gitter.im/4GeeksDev/4gpayments>`_ de la comunidad.
+* Librerias cliente.
+* Escribiendo al correo payments@4geeks.io
 
 Mira la sección `Librerías cliente <http://gpayments-support.readthedocs.io/es/latest/libreria.html>`_ para conocer más.
