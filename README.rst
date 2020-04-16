@@ -11,11 +11,7 @@ Sin embargo, siempre puedes consumir el API mediante métodos HTTP, o escribir t
 .. note::
     La referencia API la encuentras en http://docs.payments.4geeks.io/
     
-Soporte y Recursos
--------------------
+¿Como funciona 4GPayments?
+----------------------------
 
-Puedes encontrar ayuda en varios canales:
 
-* Esta guía.
-* `Chat <https://gitter.im/4GeeksDev/4gpayments>`_ de la comunidad.
-* Librerias cliente.
