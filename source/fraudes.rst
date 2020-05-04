@@ -7,7 +7,7 @@ Qué es una disputa?
 
 Generalmente cuando su cliente encuentre que un pago fue fraudulento, el banco emisor de la tarjeta procede a retornar el dinero a su  cliente y se procede a crear una disputa, en el cual el banco se dirige hacia nosotros y su negocio para proceder a disputar ese pago (en caso que su negocio indique que el pago fue legitimo).
 
-Si la disputa falla a su favor, el pago se le descuenta al cliente y se devuelve a su cuenta, en caso contrario se realisa el reembolso a su cliente descontandole a usted el monto total mas el costo operativo de las etidades bancarias. 
+Si la disputa falla a su favor, el pago se le descuenta al cliente y se devuelve a su cuenta, en caso contrario se realisa el reembolso a su cliente descontandole a usted el monto total mas el costo operativo de las etidades bancarias ($15 USD). 
 
 La documentacion para proceder con la disputa departe de su negocio la solicitara la entidad bancaria (emisora de la 
 cuenta de tu cliente).
