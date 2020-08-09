@@ -73,7 +73,7 @@ Cabe la posibilidad que no podamos soportar su negocio, inclusive si no está li
 
 Baja
 -----------------------------------
-Nosotros podremos suspender de manera preventiva su cuenta de producción si nos percatamos que su negocio se comprueba que los documentos proporcionados por usted o su equipo son falsos o alterados, si existe evidencia de Actividades no Autorizadas en su cuenta, si usted no otorgas los productos ofrecidos a sus clientes, si tenemos una sospecha fundada de que existen actividades relacionadas con cualquier tipo de fraude o lavado de dinero o que el sitio con el cual aplico se encuentra inactivo, etc.
+Nosotros podremos suspender de manera preventiva su cuenta de producción si nos percatamos que su negocio se comprueba que los documentos proporcionados por usted o su equipo son falsos o alterados, si existe evidencia de Actividades no Autorizadas en su cuenta, si usted no otorgas los productos ofrecidos a sus clientes, si tenemos una sospecha fundada de que existen actividades relacionadas con cualquier tipo de fraude, lavado de dinero o que el sitio con el cual aplico se encuentra inactivo o varios sitios bajo las mismas credenciales de produccion etc. En dicho caso sus montos se congelaran por un periodo de 3 meses como garantia.
 
 Para que podamos reactivar su baja, usted contarás con 24 horas a partir de la baja preventiva para exhibir cualquier prueba que aclaren los hechos que dieron pie a dicha baja, de no lograr acreditar o comprobar lo contrario, la cuenta será dada de baja formalmente.
 
