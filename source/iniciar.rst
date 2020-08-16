@@ -85,4 +85,4 @@ Soporte
 -----------
 Puedes encontrar ayuda en varios canales:
  - Esta guía.
- - Escribe en la _`comunidad de 4Geeks <https://community.4geeks.io/c/4geeks-payments>`_, bajo la categoría "4Geeks Payments".
+ - Escribe en la `comunidad de 4Geeks <https://community.4geeks.io/c/4geeks-payments>`_, bajo la categoría "4Geeks Payments".
