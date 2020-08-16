@@ -81,12 +81,8 @@ Integración
 -----------
 4GPayments viene con las herramientas necesarias para integrarlo a cualquier sistema informático, ya sea web o móvil. Estas herramientas son creadas en su mayoria por la comunidad abierta de desarrolladores, pero estrictamente valoradas por los ingenieros de 4Geeks.
 
-Soporte y Recursos
+Soporte
 -----------
 Puedes encontrar ayuda en varios canales:
  - Esta guía.
- - `Chat <https://gitter.im/4GeeksDev/4gpayments>`_ de la comunidad.
- - Librerias cliente.
- - Escribiendo al correo payments@4geeks.io
-
-Mira la sección `Librerías cliente <http://gpayments-support.readthedocs.io/es/latest/libreria.html>`_ para conocer más.
+ - Escribe en la _`comunidad de 4Geeks <https://community.4geeks.io/c/4geeks-payments>`_, bajo la categoría "4Geeks Payments".
