@@ -17,3 +17,5 @@ un plugin para integrar con WooCommerce / Wordpress.
 
 
 Mira este `demo <https://github.com/4GeeksDev/gpayments-ruby-demo>`_ creando en Ruby on Rails.
+
+Si quieres conectar con otros desarrolladores, entra en la Comunidad 4Geeks `Comunidad 4Geeks <https://community.4geeks.io/c/4geeks-payments/8>`_.
